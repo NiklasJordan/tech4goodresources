@@ -460,7 +460,6 @@ ___
 - [HealthMap](https://healthmap.org/) — Real-time intelligence on a broad range of emerging infectious diseases for a diverse audience including libraries, local health departments, governments, and international travelers.
 - [Knowledge 4 Health](https://www.k4health.org) — Knowledge and tools to strengthen family planning and other public health efforts worldwide.
 - [Demographic and Health Surveys](https://dhsprogram.com) — Analyzes and distributes survey results regarding health, nutrition, HIV for over 75 countries.
-- [Digital Health Atlas](https://digitalhealthatlas.org) — [WHO](http://www.who.int) toolkit for measuring and facilitating scale-up and national institutionalization of digital health solutions.
 - [Healthsites.io](https://healthsites.io) — Canonical location for data and the tools necessary to upload, manage and make data around healthcare disease or disaster outbreak easily accessible.
 - [IYCF Image Bank](https://iycf.spring-nutrition.org/) — Collection of over 700 images, developed from adaptations of UNICEF’s Community Infant and Young Child Feeding Counselling Package.
 - [Malaria Atlas Project](https://map.ox.ac.uk) — Disseminates free, accurate and up-to-date information on malaria and associated topics, organized on a geographical basis.
