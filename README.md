@@ -2,6 +2,8 @@
 
 Roundup of 'Tech for Good'-related sites, organizations, links, etc.
 
+These resources are a distilation from my project, the [ICT4D Guide](http://ict4dguide.org), which I am forking into a more useful field guide. So this list is the best of both worlds! Please feel free to edit directly or to fork/pull any modifications you'd like to make!
+
 ___
 
 
