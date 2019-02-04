@@ -7,7 +7,7 @@ These resources are a distilation from my project, the [ICT4D Guide](http://ict4
 ___
 
 
-- [Core](#core)
+- [Core Resources](#core-resources)
 	- [Blogs](#blogs)
 	- [Guides and Platforms](#guides-and-platforms)
 	- [Organizations](#organizations)
@@ -40,7 +40,7 @@ ___
 
 ___
 
-## Core
+## Core Resources
 
 ### Guides and Platforms
 
