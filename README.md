@@ -25,7 +25,7 @@ ___
 	- [Monitoring & Evaluation](#monitoringevaluation)
 	- [Privacy & Security](#privacysecurity)
 	- [Radio](#radio)
-- [Focus Areas](#ocusareas)
+- [Focus Areas](#focusareas)
 	- [Agriculture](#agriculture)
 	- [Education](#education)
 	- [Environment](#environment)
