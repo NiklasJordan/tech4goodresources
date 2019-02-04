@@ -415,7 +415,6 @@ ___
 - [Open Learning Exchange](https://ole.org) — International non-profit helping to create powerful open learning communities throughout the developing world that ensure quality basic learning for all, with a focus on children and youth, especially girls.
 - [Open Library](https://openlibrary.org) — Classics of world literature.
 - [Project Gutenberg](https://gutenberg.org) — Over 50,000 free eBooks in many formats available for download and online reading.
-- [Girl Effect](https://www.girleffect.org) — Organization that connects girls to each other and to the critical assets they need.
 - [Girl Up](https://girlup.org) — United Nations Foundation’s adolescent girl campaign, helps the hardest to reach girls living in places where it is hardest to be a girl.
 - [Global E-Schools and Communities Initiative (GESCI)](http://gesci.org) — International NGO and works with developing country governments and agencies in Africa, Asia, and Latin America to leverage technology as a catalyst for improving access and quality of education.
 - [IREX](https://irex.org) — International nonprofit organization with a focus on education.
@@ -524,7 +523,7 @@ ___
 - [Womanity](https://www.womanity.org) — Empower girls and women to shape their future and accelerate progress within their communities.
 - [World Pulse](https://worldpulse.com) — Action media network powered by women from 190 countries, seeks to lift and unite womens' voices to accelerate their impact for the world through programs (online communities, magazine and online campaigns).
 - [HarassMap](https://harassmap.org) — Ending the social acceptability of sexual harassment and assault in Egypt — it's an SMS-to-web solution which allows women to anonymously report sexual harassment they face in Egypt by sending a simple text that is then displayed on a public map on the website.
-- [Girl Effect](https://www.girleffect.org/) — Good practice safeguarding guidelines for the digital era.
+- [Girl Effect](https://www.girleffect.org/) — Organization that connects girls to each other and to the critical assets they need.
 
 
 
