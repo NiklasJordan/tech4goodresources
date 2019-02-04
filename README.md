@@ -437,6 +437,22 @@ ___
 - [OpenForis](http://openforis.org) — Free open-source solutions for environmental monitoring.
 
 
+### Governance
+
+- [Civic Tech Field Guide](https://docs.google.com/spreadsheets/d/1FzmvVAKOOFdixCs7oz88cz9g1fFPHDlg0AHgHCwhf4A/edit#gid=0) — Collaboration by Erin Simpson of [Civic Hall Labs](https://civichall.org/), Micah Sifry of [Civic Hall](https://civichall.org), and Matt Stempeck of [Microsoft](https://www.microsoft.com) to try and organize the civic tech field by compiling hundreds of civic technologies and grouping them to see what patterns emerge.
+- [DemTools](https://dem.tools) — Free, open-source software to provide civic organizations, legislatures, and political parties with the capabilities to effectively engage 21st century citizens and build better democracies.
+- [OGP Toolbox](https://ogptoolbox.org) — Civil society organization, part of the [OpenGov Partnership](https://www.opengovpartnership.org/) - civic technology catalog.
+- [ParticipateDB](http://www.participatedb.com) — Digital engagement tools directory.
+- [Accion Venture Lab](https://accion.org/venturelab) — Investment initiative that provides seed capital and support start-ups focusing on global poverty.
+- [Build Peace](http://howtobuildpeace.org) — Yearly conference that brings together practitioners, activists, artists and technologists from around the world to share experience and ideas on using technology, arts and research for peacebuilding and conflict transformation.
+- [Humanitarian Innovation Fund](http://www.elrha.org/hif/) — Supports organisations and individuals to identify, nurture and share innovative and scalable solutions to the challenges facing effective humanitarian assistance.
+- [Peacehack](https://peacehack.io) — International NGO initiative by International Alert. International Alert works with people directly affected by conflict to build lasting peace.
+- [PeaceTech Lab](https://www.peacetechlab.org) — Non-profit (formerly associated with [US Institute of Peace](https://www.usip.org)) that brings together engineers and activists to develop peacebuilding solutions. Makers of the [PeaceTech Wiki](http://peacetech.wiki).
+- [Solutions for Youth Employment](https://www.s4ye.org) — Helps stakeholders across all sectors to link to each other for coordinated action, to identify, learn from, and innovate upon successful solutions, and to leverage and scale up effective policies and investments to enhance employment among youth.
+- [RightsCase](https://equalit.ie) — Digital security for civil society — open and reusable systems with a focus on privacy, online security, and information management.
+- [Tech For Good](http://www.techforgood.global/) — Building the field of techforgood #civictech #digisi #ethicaltech through content & community - curated by Bethnal Green Ventures.
+
+
 
 ### Health
 
