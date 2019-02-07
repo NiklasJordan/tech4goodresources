@@ -1,4 +1,4 @@
-# Tech for Good Resources
+# Tech4Good Resources
 
 Roundup of 'Tech for Good'-related sites, organizations, links, etc.
 
