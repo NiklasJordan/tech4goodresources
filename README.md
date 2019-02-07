@@ -134,6 +134,7 @@ ___
 - [Dalberg](https://www.dalberg.com) — A strategy and policy advisory firm that specializes in global development.
 - [Development Gateway](http://developmentgateway.org) — International development consultancy of international development professionals, governments, and citizens with the knowledge they need to improve lives.
 - [EDC](https://edc.org) — Private organization that designs, implements, and evaluates programs to improve education, health, and economic opportunity worldwide.
+- [Every1Mobile](https://www.every1mobile.com) — A digital and mobile services provider with offices in South Africa and England.
 - [John Snow, Inc. (JSI)](https://www.jsi.com) — Public health research and consulting firm in the US and around the world.
 - [Panoply Digital](https://www.panoplydigital.com) — Consultancy organization in the UK that focuses on ICT.
 - [PLAN International](https://plan-international.org) — Independent development and humanitarian organization which works in 71 countries across world, in Africa, the Americas, and Asia to advance children’s rights and equality for girls.
